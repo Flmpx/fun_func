@@ -7,3 +7,4 @@
 ## C++
 
 - [Guess Word](./cpp/guess_word.cpp)
+- [ReCord Planet Infomation](./cpp/record_planet_info.cpp)
