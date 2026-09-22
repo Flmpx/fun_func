@@ -1,4 +1,4 @@
-# Fun_Functions/fun_func  
+# Fun_Func
 有趣的程序  
 
 ## C
